@@ -2,7 +2,7 @@
 
 A small javascript program to add book list.
 
-### Screenshot ###
+### Screenshots ###
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/69615463/130316812-e20bac82-0063-4502-9b33-f54185cf11c3.png)
 
